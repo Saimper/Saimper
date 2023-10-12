@@ -3,35 +3,19 @@
    <p align="center">
       <samp>
       <b style="color: #fbcb55">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=FBCB55&center=true&width=435&lines=Hi%2C+Welcome.;I'm+Rottioris.;A+passionate+web+developer.;I+am+passionate+about+technology.;+and+development.;I+like+to+learn+things.+%3C3" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=008000&center=true&width=435&lines=Hi%2C+Welcome.;I'm+Joel.;A+passionate+web+developer.;I+am+passionate+about+technology.;+and+development.;I+like+to+learn+things.+%3C3" alt="Typing SVG" /></a>
       </samp><br>
    </p>
 
-   <p align="center">
-      <samp> 
-         ~
-         <a href="" target="_blank">Twitter</a> &#8226;
-         <a href="" target="_blank">Rottioris</a> &#8226;
-         <a href="" target="_blank">Instagram</a>
-         ~
-      </samp>
-   </p>
 
 <br>
-
-<details align="center">
-
-<summary><samp><b> Extend :yellow_heart:</b></samp></summary>
 
 <h2></h2><br>
 
 
 # About me
-<p style="color: #000000">Hi! I'm Rottioris, a 23 year old passionate web developer. I enjoy creating stunning and functional websites that provide effective solutions to online challenges. My goal is to combine creativity and my tastes with technology to build web experiences that stand out and perform exceptionally. </p>
-
-
-
-# Connect with me:
+<p style="color: #000000">¡Hola! Soy Joel Solano, un apasionado desarrollador web con un enfoque especializado en PHP y Laravel. Con una sólida experiencia en la creación de aplicaciones web y sitios dinámicos, me esfuerzo por combinar la elegancia del diseño con la funcionalidad robusta.
+ </p>
 
 
 # Programming Languages
@@ -46,7 +30,3 @@
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
 	<a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a> </p>
 
-
-----
-
-> 川のせせらぎのように、インスピレーションが私の心を流れる。
