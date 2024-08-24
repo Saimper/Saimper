@@ -14,7 +14,7 @@
 
 
 # About me
-<p style="color: #000000">¡Hola! Soy Joel Solano, un apasionado desarrollador web con un enfoque especializado en PHP y Laravel. Con una sólida experiencia en la creación de aplicaciones web y sitios dinámicos, me esfuerzo por combinar la elegancia del diseño con la funcionalidad robusta.
+<p style="color: #000000">¡Hola! Soy Joel Solano, un apasionado desarrollador web con enfoque en PHP y Laravel. Experiencia en la creación de aplicaciones web y sitios dinámicos, me esfuerzo por combinar la elegancia del diseño con la funcionalidad.
  </p>
 
 
@@ -27,6 +27,9 @@
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+   <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aastro">
+    <img alt="Astro" src="https://img.shields.io/badge/Astro-%23000000.svg?logo=astro&logoColor=white">
+</a>
+
 	<a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a> </p>
 
