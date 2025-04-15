@@ -13,12 +13,12 @@
 <h2></h2><br>
 
 
-# About me
+# Sobre mí
 <p style="color: #000000">¡Hola! Soy Joel Solano, un apasionado desarrollador web con enfoque en PHP y Laravel. Experiencia en la creación de aplicaciones web y sitios dinámicos, me esfuerzo por combinar la elegancia del diseño con la funcionalidad.
  </p>
 
 
-# Programming Languages
+# Lenguajes
 
 <p>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
