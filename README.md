@@ -4,9 +4,9 @@
 
 ### Desarrollador Full Stack | Apasionado por la Tecnología | Aprendiz Perpetuo
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge)]()
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
-[![Email](https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge)](mailto:)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge)](https://portafolio-joel-dev.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-solano-765561269/)
+[![Email](https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge)](mailto:joeldavidsolanooerez@gmail.com)
 
 </div>
 
