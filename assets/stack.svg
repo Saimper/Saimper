@@ -21,7 +21,7 @@
 <path d="M28 74h388M470 74h382" stroke="#17222e"/><g style="animation:bt0 13.0s infinite">
   <text x="28" y="102" font-size="12" fill="#b9c7d4">PHP</text>
   <rect x="118" y="90" width="232" height="11" rx="2.5" fill="#0d141c"/>
-  <rect x="118" y="90" width="195.4" height="11" rx="2.5" fill="#22d3ee" style="animation:b0 13.0s infinite;transform-box:fill-box;transform-origin:left"/>
+  <rect x="118" y="90" width="195.2" height="11" rx="2.5" fill="#22d3ee" style="animation:b0 13.0s infinite;transform-box:fill-box;transform-origin:left"/>
   <text x="416" y="102" text-anchor="end" font-size="11.5" fill="#4a5c6e"> 84.2%</text>
 </g><g style="animation:bt1 13.0s infinite">
   <text x="28" y="129" font-size="12" fill="#b9c7d4">Vue</text>

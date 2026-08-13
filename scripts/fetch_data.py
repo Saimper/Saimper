@@ -63,5 +63,17 @@ data = {
     "repo_count": len(repo_stats),
 }
 out_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data.json")
+
+# Guarda: si el token no alcanza los repos privados, la recoleccion sale mucho mas
+# pobre que la anterior. Preferimos abortar antes que sobrescribir el perfil con
+# datos parciales (un GITHUB_TOKEN normal solo ve el repo del workflow).
+if os.path.exists(out_path):
+    prev = json.load(open(out_path))
+    if data["total_commits"] < prev["total_commits"] * 0.6:
+        print(f"ABORTA: {data['total_commits']} commits frente a {prev['total_commits']} previos. "
+              f"El token no esta viendo los repos privados (falta el secret METRICS_TOKEN).",
+              file=sys.stderr)
+        sys.exit(1)
+
 json.dump(data, open(out_path, "w"), indent=1)
 print(f"\ntotal={data['total_commits']} dias_activos={data['active_days']} repos={data['repo_count']}", file=sys.stderr)
