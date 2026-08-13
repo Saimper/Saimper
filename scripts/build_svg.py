@@ -90,7 +90,7 @@ def header_svg(d):
     lines = [
         ("Started", "IT System Solutions Panama - Full-Stack Developer, remoto"),
         ("Mounted", f"{d['repo_count']} repositorios - {total} commits en los ultimos 12 meses"),
-        ("Reached target", "Barranquilla, Colombia - presencial / hibrido / remoto"),
+        ("Reached target", "Sincelejo, Sucre, Colombia - presencial / hibrido / remoto"),
         ("Listening on", "portafolio-joel-dev.vercel.app"),
     ]
     css = [RM,
@@ -143,7 +143,7 @@ def header_svg(d):
 <style>{''.join(css)}</style>
 </defs>
 <rect width="{W}" height="{H}" rx="11" fill="{C['bg']}"/>
-{chrome(W, H, "joel@barranquilla: ~/dev", "ssh")}
+{chrome(W, H, "joel@sincelejo: ~/dev", "ssh")}
 <g clip-path="url(#frame)">
   <rect width="{W}" height="{H}" fill="url(#halo)" style="animation:glow 5s ease-in-out infinite"/>
   {''.join(body)}
