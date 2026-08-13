@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Saimper/Saimper/main/assets/header.svg?v=1" width="100%" alt="Joel Solano — Full-Stack Developer">
+<img src="https://raw.githubusercontent.com/Saimper/Saimper/main/assets/header.svg?v=2" width="100%" alt="Joel Solano — Full-Stack Developer">
 
 ## Sobre mí
 
