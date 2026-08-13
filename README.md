@@ -2,7 +2,7 @@
 
 ## Sobre mí
 
-Desarrollador full-stack en **IT System Solutions (Panamá)**, donde construyo plataformas Laravel para operaciones de call center y BPO. En paralelo llevo proyectos freelance desde 2024. Vivo en Barranquilla y trabajo en remoto.
+Desarrollador full-stack en **IT System Solutions (Panamá)**, donde construyo plataformas Laravel para operaciones de call center y BPO. En paralelo llevo proyectos freelance desde 2024. Vivo en Sincelejo - Sucre y trabajo en remoto.
 
 La mayor parte de mi trabajo no es escribir features desde cero: es leer sistemas existentes, entender por qué se construyeron así, refactorizarlos sin romperlos y encontrar la causa real cuando algo falla en producción. El proyecto que más me ha enseñado es la modernización de una plataforma VICIdial heredada — 256 commits en el último año reescribiendo PHP legacy hacia Laravel y Vue.
 
