@@ -1,156 +1,50 @@
-<div align="center">
+<img src="https://raw.githubusercontent.com/Saimper/Saimper/main/assets/header.svg?v=1" width="100%" alt="Joel Solano — Full-Stack Developer">
 
-# 👨‍💻 Joel Solano
+## Sobre mí
 
-### Desarrollador Full Stack | Apasionado por la Tecnología | Aprendiz Perpetuo
+Desarrollador full-stack en **IT System Solutions (Panamá)**, donde construyo plataformas Laravel para operaciones de call center y BPO. En paralelo llevo proyectos freelance desde 2024. Vivo en Barranquilla y trabajo en remoto.
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge)](https://portafolio-joel-dev.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-solano-765561269/)
-[![Email](https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge)](mailto:joeldavidsolanooerez@gmail.com)
+La mayor parte de mi trabajo no es escribir features desde cero: es leer sistemas existentes, entender por qué se construyeron así, refactorizarlos sin romperlos y encontrar la causa real cuando algo falla en producción. El proyecto que más me ha enseñado es la modernización de una plataforma VICIdial heredada — 256 commits en el último año reescribiendo PHP legacy hacia Laravel y Vue.
 
-</div>
+**Cómo trabajo**
 
----
+- SOLID como base, y DDD con arquitectura hexagonal cuando la complejidad del dominio lo justifica — no antes.
+- Ninguna función pasa de ~20 líneas. Si crece, se extrae.
+- Seguridad primero: nada de credenciales en el código, consultas siempre por query builder o prepared statements, salida escapada, `$fillable` explícito.
+- Antes de dar algo por terminado: `pint`, `phpstan` y `pest` en verde.
+- Despliegue en VPS propio, administrado a mano. Sin plataformas gestionadas.
 
-## 🚀 Sobre Mí
+<img src="https://raw.githubusercontent.com/Saimper/Saimper/main/assets/stack.svg?v=1" width="100%" alt="Stack técnico y distribución real de código">
 
-Desarrollador web apasionado especializado en construir aplicaciones escalables con tecnologías modernas. Me encanta transformar problemas complejos en soluciones elegantes, y estoy constantemente explorando nuevas herramientas para perfeccionar mi oficio.
+<img src="https://raw.githubusercontent.com/Saimper/Saimper/main/assets/heatmap.svg?v=1" width="100%" alt="Contribuciones reales de los últimos 12 meses">
 
-```typescript
-const joel = {
-    ubicacion: "Colombia 🇨🇴",
-    rol: "Desarrollador Full Stack",
-    pasiones: ["Código Limpio", "Resolver Problemas", "Aprendizaje Continuo"],
-    enfoqueActual: "Construyendo aplicaciones web escalables",
-    curiosidad: "Debuggeo con console.log y no me avergüenzo"
-};
-```
+<img src="https://raw.githubusercontent.com/Saimper/Saimper/main/assets/projects.svg?v=1" width="100%" alt="Proyectos ordenados por actividad">
 
----
+### Repositorios públicos
 
-## 💻 Stack Tecnológico
+| Proyecto | Stack | Qué es |
+| --- | --- | --- |
+| [crm1.0](https://github.com/Saimper/crm1.0) | Laravel · Blade · MySQL | CRM BPO multi-tenant: cobranza, CX, venta y servicio |
+| [Portafolio-JoelDev](https://github.com/Saimper/Portafolio-JoelDev) · [demo](https://portafolio-joel-dev.vercel.app) | Astro | Portafolio personal |
+| [Tienda-Web](https://github.com/Saimper/Tienda-Web) | Laravel · PHP · MySQL | Gestión de inventario, productos, clientes y ventas |
+| [Help-Desk](https://github.com/Saimper/Help-Desk) | Laravel · Blade | Mesa de ayuda: solicitudes, incidencias y soporte |
+| [Biblioteca](https://github.com/Saimper/Biblioteca) · [demo](https://biblioteca-blond-gamma.vercel.app) | Node.js · EJS | Gestión de libros, usuarios y préstamos con MVC |
+| [Pruebas-E2E](https://github.com/Saimper/Pruebas-E2E) | JavaScript | Suite de pruebas end-to-end |
+| [MaximunSegurity](https://github.com/Saimper/MaximunSegurity) | Laravel | Control de seguridad |
+| [Demo-advertorials](https://github.com/Saimper/Demo-advertorials) · [demo](https://demo-advertorials.vercel.app) | HTML · JS | Plantillas de advertorials |
 
-<div align="center">
+<img src="https://raw.githubusercontent.com/Saimper/Saimper/main/assets/timeline.svg?v=1" width="100%" alt="Trayectoria profesional 2021–2026">
 
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
+Ingeniería de Sistemas en la **Corporación Unificada Nacional de Educación Superior (CUN)**, cursando desde agosto de 2021.
 
-### ⚙️ Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+## Contacto
 
-### 🗄️ Bases de Datos
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+[<img src="https://raw.githubusercontent.com/Saimper/Saimper/main/assets/link-portfolio.svg?v=1" alt="Portafolio" height="46">](https://portafolio-joel-dev.vercel.app)
+[<img src="https://raw.githubusercontent.com/Saimper/Saimper/main/assets/link-linkedin.svg?v=1" alt="LinkedIn" height="46">](https://www.linkedin.com/in/joel-solano-765561269/)
+[<img src="https://raw.githubusercontent.com/Saimper/Saimper/main/assets/link-email.svg?v=1" alt="Email" height="46">](mailto:joeldavidsolanooerez@gmail.com)
 
-### 🛠️ Herramientas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
+Abierto a posiciones full-stack en Colombia y en remoto: presencial, híbrido o remoto.
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Saimper&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff79c6&icon_color=ff79c6&text_color=bd93f9"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saimper&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff79c6&text_color=bd93f9&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Saimper&theme=radical&hide_border=true&background=0D1117&ring=FF79C6&fire=FF79C6&currStreakLabel=FF79C6&sideLabels=BD93F9)
-
-</div>
-
----
-
-## 🎯 Actualmente Trabajando En
-
-<table align="center">
-<tr>
-<td width="50%">
-
-🔨 Construyendo aplicaciones web modernas con Laravel y Astro
-
-📚 Profundizando mi conocimiento en .NET y C#
-
-</td>
-<td width="50%">
-
-🌱 Explorando arquitectura de microservicios
-
-💡 Contribuyendo a proyectos de código abierto
-
-</td>
-</tr>
-</table>
-
----
-
-## 📈 Gráfico de Actividad
-
-<div align="center">
-
-[![Gráfico de Actividad](https://github-readme-activity-graph.vercel.app/graph?username=Saimper&custom_title=Contribuciones%20de%20Joel&bg_color=0d1117&color=ff79c6&line=bd93f9&point=50fa7b&area=true&hide_border=true)](https://github.com/Saimper)
-
-</div>
-
----
-
-## 🏆 Trofeos de GitHub
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Saimper&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)](https://github.com/Saimper)
-
-</div>
-
----
-
-## 💭 Frase del Día
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
-
-## 📫 Conectemos
-
-Siempre estoy abierto a conversaciones interesantes y oportunidades de colaboración. ¡No dudes en contactarme!
-
-<div align="center">
-
-[![GitHub followers](https://img.shields.io/github/followers/Saimper?label=Seguidores&style=social)](https://github.com/Saimper)
-[![GitHub stars](https://img.shields.io/github/stars/Saimper?label=Estrellas&style=social)](https://github.com/Saimper)
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ *"El código es como el humor. Cuando tienes que explicarlo, es malo."* - Cory House
-
-<img src="https://komarev.com/ghpvc/?username=Saimper&color=ff79c6&style=flat-square&label=Visitas+al+Perfil" alt="Contador de visitas"/>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=0" width="100%"/>
-
-</div>
+<sub>Los gráficos de esta página son SVG generados a partir de la API de GitHub — commits, lenguajes y repositorios reales, sin widgets de terceros. Se regeneran a diario desde <a href="scripts/build_svg.py">scripts/build_svg.py</a>.</sub>

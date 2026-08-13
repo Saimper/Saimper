@@ -1,0 +1,44 @@
+name: Refresh metrics
+
+# Regenera los SVG del perfil con datos frescos de la API de GitHub.
+#
+# Para incluir los commits de repos privados hay que crear un secret METRICS_TOKEN
+# con un PAT de scope `repo`. Sin ese secret el workflow cae a GITHUB_TOKEN y solo
+# cuenta la actividad publica.
+
+on:
+  schedule:
+    - cron: '17 6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Recolectar metricas
+        env:
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+        run: python scripts/fetch_data.py
+
+      - name: Generar SVG
+        run: python scripts/build_svg.py
+
+      - name: Publicar cambios
+        env:
+          ACTOR: ${{ github.actor }}
+        run: |
+          git config user.name  "$ACTOR"
+          git config user.email "$ACTOR@users.noreply.github.com"
+          git add assets scripts/data.json
+          git diff --staged --quiet && echo "sin cambios" && exit 0
+          git commit -m "chore: actualizar metricas del perfil"
+          git push

@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 366" width="880" height="366" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace" role="img" aria-label="Trayectoria profesional">
+<defs><pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+  <circle cx="1" cy="1" r="1" fill="#17222e" opacity=".55"/>
+</pattern>
+<linearGradient id="fade" x1="0" x2="1">
+  <stop offset="0" stop-color="#22d3ee" stop-opacity="0"/>
+  <stop offset=".5" stop-color="#22d3ee" stop-opacity=".16"/>
+  <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+</linearGradient><style>@media (prefers-reduced-motion:reduce){*{animation:none!important;opacity:1!important;transform:none!important}}@keyframes pulse{0%,100%{opacity:.35;r:4}50%{opacity:1;r:6.5}}@keyframes hd{0%,2.31%{opacity:0;transform:translateY(4px)}5.38%,94.62%{opacity:1;transform:translateY(0)}100%{opacity:0;transform:translateY(0)}}@keyframes ax{0%,4.62%{transform:scaleX(0)}12.31%,94.62%{transform:scaleX(1)}100%{transform:scaleX(1);opacity:0}}@keyframes l0{0%,7.69%{opacity:0;transform:translateY(4px)}10.77%,94.62%{opacity:1;transform:translateY(0)}100%{opacity:0;transform:translateY(0)}}@keyframes g0{0%,8.85%{transform:scaleX(0)}15.38%,94.62%{transform:scaleX(1)}100%{transform:scaleX(1);opacity:0}}@keyframes l1{0%,9.85%{opacity:0;transform:translateY(4px)}12.92%,94.62%{opacity:1;transform:translateY(0)}100%{opacity:0;transform:translateY(0)}}@keyframes g1{0%,11.00%{transform:scaleX(0)}17.54%,94.62%{transform:scaleX(1)}100%{transform:scaleX(1);opacity:0}}@keyframes l2{0%,12.00%{opacity:0;transform:translateY(4px)}15.08%,94.62%{opacity:1;transform:translateY(0)}100%{opacity:0;transform:translateY(0)}}@keyframes g2{0%,13.15%{transform:scaleX(0)}19.69%,94.62%{transform:scaleX(1)}100%{transform:scaleX(1);opacity:0}}@keyframes l3{0%,14.15%{opacity:0;transform:translateY(4px)}17.23%,94.62%{opacity:1;transform:translateY(0)}100%{opacity:0;transform:translateY(0)}}@keyframes g3{0%,15.31%{transform:scaleX(0)}21.85%,94.62%{transform:scaleX(1)}100%{transform:scaleX(1);opacity:0}}@keyframes l4{0%,16.31%{opacity:0;transform:translateY(4px)}19.38%,94.62%{opacity:1;transform:translateY(0)}100%{opacity:0;transform:translateY(0)}}@keyframes g4{0%,17.46%{transform:scaleX(0)}24.00%,94.62%{transform:scaleX(1)}100%{transform:scaleX(1);opacity:0}}</style></defs>
+<rect width="880" height="366" rx="11" fill="#070a0e"/>
+<rect x=".5" y=".5" width="879" height="365" rx="11" fill="#0b1017" stroke="#17222e"/>
+<rect x=".5" y=".5" width="879" height="365" rx="11" fill="url(#dots)"/>
+<path d="M0 34h880" stroke="#17222e"/>
+<circle cx="21" cy="17.5" r="4.5" fill="#22d3ee" opacity=".75"/>
+<circle cx="37" cy="17.5" r="4.5" fill="#17222e"/>
+<circle cx="53" cy="17.5" r="4.5" fill="#17222e"/>
+<text x="440.0" y="21.5" text-anchor="middle" font-size="11.5" fill="#4a5c6e" letter-spacing=".6">journalctl --unit=carrera --since=2021</text>
+<text x="856" y="21.5" text-anchor="end" font-size="11" fill="#17222e">timeline</text>
+<g style="animation:hd 13.0s infinite">
+  <text x="28" y="62" font-size="12.5"><tspan fill="#22d3ee">$</tspan><tspan fill="#b9c7d4" dx="7">trayectoria</tspan><tspan fill="#4a5c6e" dx="8">roles solapados, duracion real</tspan></text>
+  <path d="M28 74h824" stroke="#17222e"/>
+</g>
+<g style="animation:l0 13.0s infinite">
+  <text x="28" y="110" font-size="12.5" fill="#e6eef5">CUN</text>
+  <text x="28" y="126" font-size="10.5" fill="#4a5c6e">Ingenieria de Sistemas</text>
+  <rect x="220.2" y="98" width="611.4" height="14" rx="3" fill="#12707f" opacity="0.8" style="animation:g0 13.0s infinite;transform-box:fill-box;transform-origin:left"/>
+  <text x="220.2" y="130" font-size="10" fill="#4a5c6e">08/2021 - actual</text>
+  
+</g><g style="animation:l1 13.0s infinite">
+  <text x="28" y="152" font-size="12.5" fill="#e6eef5">ParqueSoft</text>
+  <text x="28" y="168" font-size="10.5" fill="#4a5c6e">Software QA Tester</text>
+  <rect x="424.0" y="140" width="20.4" height="14" rx="3" fill="#12707f" opacity="0.8" style="animation:g1 13.0s infinite;transform-box:fill-box;transform-origin:left"/>
+  <text x="424.0" y="172" font-size="10" fill="#4a5c6e">04/2023 - 06/2023</text>
+  
+</g><g style="animation:l2 13.0s infinite">
+  <text x="28" y="194" font-size="12.5" fill="#e6eef5">Freelance</text>
+  <text x="28" y="210" font-size="10.5" fill="#4a5c6e">Desarrollador web</text>
+  <rect x="515.7" y="182" width="315.9" height="14" rx="3" fill="#22d3ee" opacity="0.95" style="animation:g2 13.0s infinite;transform-box:fill-box;transform-origin:left"/>
+  <text x="515.7" y="214" font-size="10" fill="#4a5c6e">01/2024 - actual</text>
+  <circle cx="831.6" cy="189" r="4" fill="#22d3ee" style="animation:pulse 2.2s ease-in-out infinite"/>
+</g><g style="animation:l3 13.0s infinite">
+  <text x="28" y="236" font-size="12.5" fill="#e6eef5">Comaderas</text>
+  <text x="28" y="252" font-size="10.5" fill="#4a5c6e">Auxiliar de TI</text>
+  <rect x="597.2" y="224" width="61.1" height="14" rx="3" fill="#12707f" opacity="0.8" style="animation:g3 13.0s infinite;transform-box:fill-box;transform-origin:left"/>
+  <text x="597.2" y="256" font-size="10" fill="#4a5c6e">09/2024 - 03/2025</text>
+  
+</g><g style="animation:l4 13.0s infinite">
+  <text x="28" y="278" font-size="12.5" fill="#e6eef5">IT System Solutions</text>
+  <text x="28" y="294" font-size="10.5" fill="#4a5c6e">Full-Stack Developer</text>
+  <rect x="770.5" y="266" width="61.1" height="14" rx="3" fill="#22d3ee" opacity="0.95" style="animation:g4 13.0s infinite;transform-box:fill-box;transform-origin:left"/>
+  <text x="770.5" y="298" font-size="10" fill="#4a5c6e">02/2026 - actual</text>
+  <circle cx="831.6" cy="273" r="4" fill="#22d3ee" style="animation:pulse 2.2s ease-in-out infinite"/>
+</g>
+<rect x="210" y="310" width="642" height="1" fill="#17222e" style="animation:ax 13.0s infinite;transform-box:fill-box;transform-origin:left"/>
+<path d="M271.1 311v7" stroke="#17222e"/><text x="271.1" y="333" text-anchor="middle" font-size="11" fill="#4a5c6e">2022</text><path d="M393.4 311v7" stroke="#17222e"/><text x="393.4" y="333" text-anchor="middle" font-size="11" fill="#4a5c6e">2023</text><path d="M515.7 311v7" stroke="#17222e"/><text x="515.7" y="333" text-anchor="middle" font-size="11" fill="#4a5c6e">2024</text><path d="M638.0 311v7" stroke="#17222e"/><text x="638.0" y="333" text-anchor="middle" font-size="11" fill="#4a5c6e">2025</text><path d="M760.3 311v7" stroke="#17222e"/><text x="760.3" y="333" text-anchor="middle" font-size="11" fill="#4a5c6e">2026</text>
+<text x="28" y="333" font-size="11"><tspan fill="#4a5c6e">Ahora:</tspan><tspan fill="#b9c7d4" dx="6">ITSS Panama</tspan><tspan fill="#4a5c6e" dx="6">+ freelance</tspan></text>
+</svg>

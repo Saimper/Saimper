@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 276 46" width="276" height="46" font-family="ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace" role="img" aria-label="EMAIL">
+<defs><style>@media (prefers-reduced-motion:reduce){*{animation:none!important;opacity:1!important;transform:none!important}}@keyframes sh{0%,100%{opacity:.5}50%{opacity:1}}</style></defs>
+<rect x=".5" y=".5" width="275" height="45" rx="8" fill="#0b1017" stroke="#17222e"/>
+<rect x=".5" y=".5" width="3" height="45" rx="1.5" fill="#22d3ee"/>
+<g transform="translate(20,13)" fill="none" stroke="#22d3ee" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="1" y="3.5" width="18" height="13" rx="2.5"/><path d="M1.8 5l8.2 6 8.2-6"/></g>
+<text x="52" y="20" font-size="9.5" fill="#4a5c6e" letter-spacing="1.4">EMAIL</text>
+<text x="52" y="34" font-size="10.5" fill="#b9c7d4">joeldavidsolanooerez@gmail.com</text>
+<circle cx="262" cy="14" r="2.5" fill="#22d3ee" style="animation:sh 2.4s ease-in-out infinite"/>
+</svg>
